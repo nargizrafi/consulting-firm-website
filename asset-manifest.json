@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/web-services-website/static/css/main.856b90e9.css",
+    "main.js": "/web-services-website/static/js/main.d76322de.js",
+    "static/js/27.7681f0ba.chunk.js": "/web-services-website/static/js/27.7681f0ba.chunk.js",
+    "index.html": "/web-services-website/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.856b90e9.css",
+    "static/js/main.d76322de.js"
+  ]
+}
